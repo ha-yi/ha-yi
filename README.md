@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currenty a freelance Mobile apps Engineer, focusing on Flutter and Kotlin Android.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-yi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ha-yi/ha-yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
