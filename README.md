@@ -2,7 +2,7 @@
 
 I am a mobile apps Engineer, focusing on Flutter and Kotlin Android.
 
-📫 How to reach me: t.me/hayinukman
+📫 How to reach me: [Telegram](t.me/hayinukman)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-yi)](https://github.com/anuraghazra/github-readme-stats)
