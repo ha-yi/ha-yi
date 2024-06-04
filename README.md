@@ -46,9 +46,61 @@ Technology Stacks:
 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"/>  <img height="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"/>
 
+## Previous Companies
+- **PT. Bukalapak**, Software Engineer, Remote, Jan '18 - Aug '20, 
+- **Freelancer**, Software Engineer, Mataram, Jul '16 - Dec '17,
+- **PT. Tokopedia**, Software Engineer in Test, Jakarta, Aug '15 - Jul '16,
+- **Samsung R&D Institute Indonesia**, Mobile Apps Developer, Jul '13 - Aug '15,
+  
+Technology Stacks: 
 
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"/>  <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
 
 <!--
+## PT Bukalapak
+Full-time, Remote, Jan 2018 - Aug 2020.
+
+**Software Engineer** Part of Seller Experience.
+
+Technology Stacks: 
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"/>  <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
+
+
+## Freelancer/Self Employed
+Full-time, Mataram, July 2016 - Dec 2018.
+
+**Software Engineer**.
+
+Technology Stacks: 
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"/>  <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
+
+
+
+## PT Tokopedia
+Full-time, Jakarta, Aug 2015 - July 2016.
+
+**Software Engineer in Test**.
+
+Technology Stacks: 
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
+
+
+
+## Samsung R&D Institute Indonesia (SRIN)
+Full-time, Jakarta, July 2013 - Aug 2015.
+
+**Software Developer/Mobile Apps Developer**.
+
+Technology Stacks: 
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"/>
+
+
+
+
 **ha-yi/ha-yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
