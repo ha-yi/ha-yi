@@ -14,9 +14,7 @@ I'm a results-driven mobile app developer with a solid background in software en
 # Working Experience
 
 ## Uber Carshare Australia (formerly Car Next Door)
-Individual Contractor, Full-time, Remote, June 2021 - June 2024.
-
-**Software Engineer**
+**Software Engineer**, Full-time, Remote, June 2021 - June 2024.
 
 - Collaborated with the CTO, Engineering Managers, Product Managers, fellow Engineers, Product team members, and a UI/UX Designer to rebuild the Car Next Door app using the latest Flutter technology. Played a key role in the product development revamp for approximately 18 months, culminating in the app's rebranding to Uber Carshare.
 - Led the development of the Otoplug IoT device connectivity project, enhancing the borrower experience by enabling seamless Bluetooth-based locking and unlocking of vehicles, even in offline conditions such as underground parking or carpark buildings. This eliminated the previous need for an internet connection to perform these actions via API calls.
@@ -28,9 +26,7 @@ Technology Stacks:
 
 
 ## Pluto Technology
-Individual Contractor, Full-time, Remote, Aug 2020 - Feb 2021
-
-**Mobile App Engineer (Contract)**
+**Mobile App Engineer (Contract)**, Full-time, Remote, Aug 2020 - Feb 2021
 
 Pluto is an early-stage Startups Company that mainly focuses on delivering Road Analysis reports to their clients. Pluto uses Machine-learning enabled mobile apps to act as data acquisition tools to collect, analyze, and estimate the image stream inside the mobile app.
 
